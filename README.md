@@ -5,7 +5,6 @@
 > Dashboard : [View Tableau](https://public.tableau.com/app/profile/khrysna.taruna.p/viz/TransjakartaTransaction_17333249642660/Routes-New)<br>
 
 ## Latar Belakang
-***
 Transjakarta adalah perusahaan BUMD (Badan Usaha Milik Daerah) khusus yang dibentuk oleh Pemprov DKI Jakarta untuk mengelola transportasi publik Jakarta. Perusahaan ini mengoperasikan Bus Rapid Transit (BRT) pertama di Asia Tenggara dan Selatan, yang didesain berdasarkan sistem TransMilenio di Bogota, Kolombia. Dengan jalur lintasan terpanjang di dunia (208 km), Transjakarta terus menjadi tulang punggung transportasi massal di Jakarta.
 
 ### *Stakeholders*
